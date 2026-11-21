@@ -1,0 +1,6 @@
+{
+  "name": "Mommy Petshop — Alfenas, MG",
+  "description": "Conheça a Mommy Petshop em Alfenas - MG. Consulte informações sobre produtos, serviços e cuidados para seu melhor amigo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
